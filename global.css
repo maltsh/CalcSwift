@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    line-height: normal;
+ }
+ 
+ 
+ :root {
+    
+    /* fonts */
+    --font-inter: Inter;
+    --font-roboto: Roboto;
+    
+    /* font sizes */
+    --font-size-5xl: 24px;
+    
+    /* Colors */
+    --color-plum: #f5beef;
+    --color-white: #fff;
+    --color-palevioletred-100: #fb8cc1;
+    --color-palevioletred-200: #f88bbf;
+    --color-black: #000;
+    --color-deeppink-100: #ee2e86;
+    --color-gray-100: #fffdfd;
+    
+    /* Border radiuses */
+    --br-31xl: 50px;
+    
+ }
+ 
