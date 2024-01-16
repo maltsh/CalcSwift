@@ -59,8 +59,8 @@
  }
  @media (max-width: 767px) {
    .frame-child {
-       width: 370px;
-       left: -54px;
+       width: 390px;
+       left: -49px;
    }
 }
  .rectangle1 {
@@ -249,7 +249,9 @@
  }
  @media (max-width: 767px) {
    .b5 {
-   left: 45px}
+   left: 60px;
+   z-index: 1; /* Set a higher z-index value for mobile devices */
+}
 }
  .rectangle13 {
     position: absolute;
@@ -378,7 +380,7 @@
  }
  @media (max-width: 767px) {
    .calc-swift-2-1 {
-      left: -40px;
+      left: -35px;
    top: 300px}
 }
  .frame {

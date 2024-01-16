@@ -14,6 +14,10 @@
     height: 291px;
     object-fit: cover;
  }
+ @media (max-width: 767px) {
+   .calc-swift-2 {
+   left: -98px }
+}
  .frame2 {
     position: absolute;
     width: 94.57%;
@@ -45,6 +49,12 @@
     width: 1172px;
     height: 816.5px;
  }
+ @media (max-width: 767px) {
+   .frame-child {
+       width: 390px;
+       left: -49px;
+   }
+}
  .rectangle1 {
     position: absolute;
     width: 100%;
@@ -65,11 +75,20 @@
     box-sizing: border-box;
     height: 42px;
  }
+ @media (max-width: 767px) {
+   .rectangle3 {
+       width: 50px;
+   }
+}
  .c {
     position: absolute;
     top: 7px;
     left: 557px;
  }
+ @media (max-width: 767px) {
+   .c {
+   left: 110px}
+}
  .rectangle4 {
     position: absolute;
     width: 94.39%;
@@ -82,6 +101,11 @@
     box-sizing: border-box;
     height: 42px;
  }
+ @media (max-width: 767px) {
+   .rectangle4 {
+       width: 180px;
+   }
+}
  .frame4 {
     position: absolute;
     width: 100%;
@@ -98,6 +122,11 @@
     left: 0%;
     height: 42px;
  }
+ @media (max-width: 767px) {
+   .rectangle5 {
+       width: 50px;
+   }
+}
  .rectangle6 {
     position: absolute;
     width: 28.91%;
@@ -115,6 +144,10 @@
     top: 6px;
     left: 252px;
  }
+ @media (max-width: 767px) {
+   .b {
+   left: 40px}
+}
  .rectangle7 {
     position: absolute;
     width: 10.37%;
@@ -127,12 +160,21 @@
     box-sizing: border-box;
     height: 40px;
  }
+ @media (max-width: 767px) {
+   .rectangle7 {
+       width: 50px;
+   }
+}
  .b1 {
     position: absolute;
     top: 6px;
     left: 551px;
     color: #fffefe;
  }
+ @media (max-width: 767px) {
+   .b1 {
+   left: 115px}
+}
  .rectangle8 {
     position: absolute;
     width: 29.42%;
@@ -150,6 +192,10 @@
     top: 6px;
     left: 428px;
  }
+ @media (max-width: 767px) {
+   .b2 {
+   left: 75px}
+}
  .rectangle9 {
     position: absolute;
     width: 28.91%;
@@ -167,6 +213,10 @@
     top: 6px;
     left: 77px;
  }
+ @media (max-width: 767px) {
+   .b3 {
+   left: 5px}
+}
  .frame5 {
     position: absolute;
     width: 100%;
@@ -180,11 +230,21 @@
     top: 6px;
     left: 251px;
  }
+ @media (max-width: 767px) {
+   .b4 {
+   left: 40px}
+}
  .b5 {
     position: absolute;
     top: 12px;
     left: 550px;
  }
+ @media (max-width: 767px) {
+   .b5 {
+   left: 60px;
+   z-index: 1; /* Set a higher z-index value for mobile devices */
+}
+}
  .rectangle13 {
     position: absolute;
     width: 28.91%;
@@ -203,6 +263,10 @@
     left: 82px;
     color: var(--color-gray-100);
  }
+ @media (max-width: 767px) {
+   .b6 {
+   left: 5px}
+}
  .rectangle14 {
     position: absolute;
     width: 29.42%;
@@ -221,6 +285,10 @@
     left: 427px;
     color: var(--color-gray-100);
  }
+ @media (max-width: 767px) {
+   .b7 {
+   left: 130px}
+}
  .frame6 {
     position: absolute;
     width: 100%;
@@ -234,12 +302,20 @@
     top: 6px;
     left: 80px;
  }
+ @media (max-width: 767px) {
+   .b8 {
+   left: 5px}
+}
  .b10 {
     position: absolute;
     top: 6px;
     left: 552px;
     color: #fffeff;
  }
+ @media (max-width: 767px) {
+   .b10 {
+   left: 115px}
+}
  .frame7 {
     position: absolute;
     width: 100%;
@@ -253,11 +329,19 @@
     top: 6px;
     left: 548px;
  }
+ @media (max-width: 767px) {
+   .b14 {
+   left: 115px}
+}
  .b15 {
     position: absolute;
     top: 6px;
     left: 78px;
  }
+ @media (max-width: 767px) {
+   .b15 {
+   left: 5px}
+}
  .frame8 {
     position: absolute;
     width: 100%;
@@ -282,6 +366,11 @@
     height: 167px;
     object-fit: cover;
  }
+ @media (max-width: 767px) {
+   .calc-swift-2-1 {
+      left: -35px;
+   top: 300px}
+}
  .frame {
     position: relative;
     background-color: var(--color-white);
