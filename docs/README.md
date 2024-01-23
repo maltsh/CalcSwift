@@ -1,6 +1,6 @@
 # CalcSwift 🧮
 
-Welcome to the Calculator Website! This web application provides a stylish and functional calculator with both dark/pink and light/white modes.
+Welcome to CalcSwift! This web application provides a stylish and functional calculator with both dark/pink and light/white modes.
 
 ![Laptop and Mobile View](assets/calc.png)
 
